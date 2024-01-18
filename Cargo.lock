@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "conclave-types-rs"
+name = "conclave-types"
 version = "0.0.1"
